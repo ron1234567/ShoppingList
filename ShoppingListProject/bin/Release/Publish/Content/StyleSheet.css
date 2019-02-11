@@ -1,0 +1,30 @@
+﻿body {
+    text-align: center;
+}
+
+.error {
+    color: red;
+    text-align: left;
+    width: auto;
+}
+
+#email, #newItem {
+    width: auto;
+    display: inline-block;
+}
+
+#itemsWereNotPurchased, #itemsWerePurchased {
+    text-align: left;
+    width: 350px;
+    display: inline;
+}
+
+.WerePurchasedTD {
+    width: 180px;
+    text-decoration: line-through;
+    color: grey;
+}
+
+.WereNotPurchasedTD {
+    width: 180px;
+}
