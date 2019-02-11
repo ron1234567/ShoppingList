@@ -1,1 +1,2 @@
 # ShoppingList
+A system for manage shopping list. Screen 1 : enter your email. Sreeen 2 : manage your shopping list, add items, view items you purchased already or you need to purchase, edit and delete items. This project written in Asp.net web forms technology, C# on backend and html, css, javascript, query on frontend.
